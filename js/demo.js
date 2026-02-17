@@ -8,7 +8,7 @@ if (allLinks) {
 
 function demo() {
   const demoBlock = document.createElement('div');
-  demoBlock.innerText = 'Powered by Aster';
+  demoBlock.innerText = 'Powered by Lucas';
   demoBlock.style.cssText = `
   pointer-events: none;
   user-select: none;
